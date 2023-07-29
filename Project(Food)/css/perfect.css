@@ -1,0 +1,35 @@
+/* Navigation bar */
+#navbar ul li a {
+    padding: 0px 0px;
+    padding-bottom: 2px;
+}
+
+.h-primary {
+    font-size: 41px;
+}
+
+#home::before{
+    height: 522px;
+}
+
+#home p {
+    width: 24rem;
+}
+
+.btn {
+    font-size: 8px;
+    padding: 6px 12px;
+}
+
+#clients img {
+    width: 66px;
+    padding: 0px 11px;
+}
+
+#clients img {
+    height: 44px;
+    opacity: 193%;
+}
+#contact-box textarea {
+    padding-bottom: 23px;
+}
